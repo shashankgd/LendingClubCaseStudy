@@ -11,22 +11,22 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Project Background
+- Project Background:
   This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of   
   medical procedures.
   Borrowers can easily access lower interest rate loans through a fast online interface.
   
-- Business Problem
+- Business Problem: 
    Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss   
    (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs 
    away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In 
    this case, the customers labelled as 'charged-off' are the 'defaulters'.
 
--  Target
+-  Target: 
    If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the 
    amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
 
-- Datset
+- Datset: 
   Dataset contains loan data for all loans issued through the time period 2007 t0 2011.
 
 ## Conclusions
@@ -34,8 +34,6 @@
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
@@ -53,8 +51,8 @@
 
 
 ## Contact
-Created by [@shashankgd] - feel free to contact me!
-Co-Authored by [@rdas15]
+- Created by [@shashankgd] - feel free to contact me!
+- Co-Authored by [@rdas15]
 
 <!-- ## License -->
 - This project is open source and available without restrictions.
